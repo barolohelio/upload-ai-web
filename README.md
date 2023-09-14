@@ -30,3 +30,6 @@ If you are developing a production application, we recommend updating the config
  
 Gerenciador de pacotes pnpm
 
+https://github.com/barolohelio/upload-ai-web/blob/main/docs/readme.md/dashboard-application.png
+
+
