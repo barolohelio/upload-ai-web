@@ -1,5 +1,8 @@
 # React + TypeScript + Vite
 
+![Dashboard](https://github.com/barolohelio/upload-ai-web/blob/main/docs/readme.md/dashboard-application.png)
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
