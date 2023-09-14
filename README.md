@@ -1,2 +1,3 @@
 # upload-ai-web
-Sem ainda
+ 
+Gerenciador de pacotes pnpm
